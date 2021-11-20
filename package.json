@@ -12,7 +12,7 @@
     "url": "git+https://github.com/Adityapanther/reverse-proxy.git"
   },
   "keywords": [
-    "reverse",
+    "reverse-proxy",
     "proxy",
     "nodejs",
     "js"
